@@ -1,4 +1,4 @@
-Claro! Vou criar um **README** com o estilo do projeto CRM do Nélio Alves, com foco no seu projeto **NeoStock**, mas adaptado para o contexto do seu software CRM para gerenciamento de estoque.
+
 
 ---
 
@@ -129,5 +129,3 @@ O frontend foi desenvolvido com **React.js** (ou Angular, dependendo da escolha)
 Distribuído sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
-Esse **README** segue o padrão e a estrutura de muitos projetos de CRM, com foco no seu sistema de gerenciamento de estoque, além de explicitar como rodar o projeto e as tecnologias utilizadas.
